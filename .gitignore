@@ -1,0 +1,9 @@
+
+nCoV2019/
+Noticias\ e\ Información/
+
+*.xlsx
+*.csv
+
+.DS_Store
+.idea/
